@@ -1,0 +1,8 @@
+.cards-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.filtered-options {
+  display: flex;
+}

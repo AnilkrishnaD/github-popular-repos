@@ -1,0 +1,33 @@
+.logo {
+  height: 34px;
+  width: 30px;
+}
+
+.logo-image {
+  height: 18px;
+  width: 23px;
+  margin-right: 9px;
+  margin-top: 17px;
+}
+
+.item-container {
+  max-height: 300px;
+  max-width: 240px;
+  background-color: #f8f8ff;
+  border-radius: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid red;
+}
+
+.heading {
+  color: orange;
+  font-size: 23px;
+}
+
+.stars-container {
+  display: flex;
+}
